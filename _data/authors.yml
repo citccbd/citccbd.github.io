@@ -1,0 +1,12 @@
+# Authors
+# You can set another author using as many attributs as a site owner does.
+
+Damian:
+  name: Damian
+  email: zhoucaidong@gmail.com
+  bio: "What do you want? Coffee, tea or coca cola?"
+
+# mike:
+#   name: Mike
+#   email: example2@domain.com
+#   bio: "How old are you?"
