@@ -18,7 +18,7 @@ url: http://citccbd.github.io
 # Jekyll configuration
 ####################################
 #
-highlighter:  pygments
+highlighter:  rouge
 excerpt_separator: <!--more-->
 
 markdown: kramdown #redcarpet 
